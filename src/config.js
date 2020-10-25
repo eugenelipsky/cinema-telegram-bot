@@ -1,0 +1,4 @@
+module.exports = {
+  TOKEN: 'YOUR TELEGRAM BOT TOKEN',
+  DB_URL: 'YOUR MONGO DB CONNECT URL'
+}
