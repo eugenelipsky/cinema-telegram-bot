@@ -101,5 +101,5 @@ Temporary Items
 .apdisk
 
 # Custom directories
-./src/config.js
 node_modules
+.idea
