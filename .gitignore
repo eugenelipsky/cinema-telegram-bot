@@ -6,3 +6,4 @@
 # Custom directories
 node_modules
 .idea/
+src/config.js
